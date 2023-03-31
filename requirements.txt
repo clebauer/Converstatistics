@@ -1,0 +1,10 @@
+pandas
+numpy
+pytz
+matplotlib
+nltk
+plotly
+pillow
+wordcloud
+jupyterlab
+jupyter
